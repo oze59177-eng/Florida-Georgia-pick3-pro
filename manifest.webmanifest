@@ -1,0 +1,9 @@
+{
+  "name": "Florida & Georgia Pick 3 Pro",
+  "short_name": "Pick 3 Pro",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f6fb",
+  "theme_color": "#073b75",
+  "lang": "es"
+}
